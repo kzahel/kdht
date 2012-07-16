@@ -1,1 +1,4 @@
 incomplete bittorrent dht implementation using twisted udp loop
+
+OptimizedTreeRoutingTable comes from the "entangled" project on 
+sourceforge
